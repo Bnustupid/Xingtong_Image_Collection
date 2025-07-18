@@ -1,0 +1,7 @@
+*.psd filter=lfs
+*.ai filter=lfs
+*.zip filter=lfs
+*.png filter=lfs
+*.jpg filter=lfs
+*.jepg filter=lfs
+*.tiff filter=lfs
