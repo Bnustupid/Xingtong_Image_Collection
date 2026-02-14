@@ -5,3 +5,4 @@
 *.jpg filter=lfs
 *.jepg filter=lfs
 *.tiff filter=lfs
+*.pur filter=lfs
